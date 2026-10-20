@@ -1,0 +1,12 @@
+{
+  "project": "Biomedical LLM GPU Dangling Centrality",
+  "calibration_graphs": 50,
+  "heldout_test_graphs": 150,
+  "selected_cuda_microbatch_size": 32,
+  "adaptive_threshold_nodes": 23,
+  "hardware": "NVIDIA A100-SXM4-40GB",
+  "primary_claim": "15.62x graph-auditing workload speedup for batched CUDA vs matched NumPy CPU",
+  "secondary_claim": "9.67% component-summed pipeline time reduction",
+  "max_numerical_discrepancy": 2.74e-06,
+  "note": "The 15.62x claim applies to the graph-auditing stage, not the full BioGPT pipeline."
+}

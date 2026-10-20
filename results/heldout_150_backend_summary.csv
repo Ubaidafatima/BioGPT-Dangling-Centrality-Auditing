@@ -1,0 +1,5 @@
+backend,runtime_seconds_150_graphs,graphs_per_second,speedup_vs_numpy,agreement
+NumPy CPU,0.866884,173.033438,1.0,True
+Ordinary CUDA (batch=1),0.416702,359.969113,2.080344,True
+Batched CUDA (batch=32),0.055514,2702.041944,15.615721,True
+Adaptive CPU/CUDA (T=23),0.056937,2634.494316,15.225348,True

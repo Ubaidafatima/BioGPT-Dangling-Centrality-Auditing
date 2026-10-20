@@ -1,0 +1,5 @@
+measure,roc_auc
+model_uncertainty,0.563
+max_Omega_MH,0.541
+max_phi_C,0.532
+mean_attention_entropy,0.462

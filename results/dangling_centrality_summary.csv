@@ -1,0 +1,6 @@
+metric,value
+analyzed_tokens,3568
+minimum_phi_c,0.0357
+maximum_phi_c,0.3333
+mean_phi_c,0.1130
+median_phi_c,0.1050

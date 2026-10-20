@@ -1,0 +1,5 @@
+method,delta_p_5pct,delta_p_10pct,delta_p_20pct,flip_rate_5pct,flip_rate_10pct,flip_rate_20pct,aopc_mean
+Random,0.001565,0.003293,0.005142,0.053,0.064,0.078,0.003333
+Raw attention,0.004206,0.006069,0.003144,0.060,0.080,0.065,0.004473
+Dangling Centrality phi_C,0.005669,0.006240,0.008863,0.080,0.101,0.106,0.006924
+Omega_MH,0.003857,0.004824,0.002131,0.075,0.075,0.070,0.003604

@@ -1,0 +1,6 @@
+metric,value
+questions_processed,200
+correct_predictions,81
+incorrect_predictions,119
+accuracy,0.405
+mean_prediction_probability,0.5064

@@ -1,0 +1,5 @@
+backend,component_summed_pipeline_seconds,pipeline_speedup_over_numpy,pipeline_time_reduction_pct
+NumPy CPU,8.38886,1.0,0.0
+Ordinary CUDA,7.938678,1.056707,5.366427
+Batched CUDA,7.577489,1.107076,9.672004
+Adaptive CPU/CUDA,7.578913,1.106869,9.655037

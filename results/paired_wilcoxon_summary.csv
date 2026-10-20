@@ -1,0 +1,7 @@
+comparison,deletion_fraction,p_value,test_direction
+phi_C_vs_random,0.05,0.101,one-sided
+phi_C_vs_random,0.10,0.084,one-sided
+phi_C_vs_random,0.20,0.090,one-sided
+Omega_MH_vs_random,0.05,0.154,one-sided
+Omega_MH_vs_random,0.10,0.271,one-sided
+Omega_MH_vs_random,0.20,0.937,one-sided
