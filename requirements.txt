@@ -1,0 +1,13 @@
+transformers>=4.57,<5
+datasets>=4.0,<5
+torch
+accelerate
+sentencepiece
+sacremoses
+networkx
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+jupyter
